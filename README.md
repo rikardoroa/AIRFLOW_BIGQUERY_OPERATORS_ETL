@@ -15,7 +15,7 @@
 ## Previous considerations
  * 1 - > for this challenge I use my own json connection files, for security you must use your own **__(previous configuration in GCP)__**, I won't share my connections key for security.
 
- * 2 - > config the right write, read permissions in the console
+ * 2 - > config the right write and read permissions in the console
  
  * 3 -> **__config properly the project and project id in google console__** for this challenge, I use  my own configurations
 

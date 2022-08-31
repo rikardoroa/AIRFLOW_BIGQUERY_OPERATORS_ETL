@@ -4,7 +4,7 @@
 
 * 1 ->  A GOOGLE Cloud Account , with the Service Account Connections Keys (Json File from GCP)
 
-* 2 ->  Google Cloud Providers Libraries, to install those libraries use **_pip install apache-airflow[google]__**
+* 2 ->  Google Cloud Providers Libraries, to install those libraries use **__pip install apache-airflow[google]__**
 
 ## Recommendations
 

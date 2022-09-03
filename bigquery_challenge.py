@@ -1,3 +1,4 @@
+#script by rikardoroa
 from ast import Index
 from airflow.models import DAG
 from airflow.operators.python import PythonOperator
